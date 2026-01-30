@@ -97,7 +97,10 @@ const App: React.FC = () => {
         <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
           <div className="flex items-center gap-3">
              <div className="w-8 h-8 bg-indigo-500 rounded-lg flex items-center justify-center text-white font-bold text-xl">P</div>
-             <h1 className="text-xl font-semibold">PhysicLab</h1>
+             <h1 className="text-xl font-semibold flex items-center gap-2">
+                PhysicLab 
+                <span className="text-xs bg-zinc-700 text-zinc-300 px-2 py-0.5 rounded font-normal">v2.0</span>
+             </h1>
           </div>
           <div className="text-sm text-zinc-400">
              Simulador Didático de Física

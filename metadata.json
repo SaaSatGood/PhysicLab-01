@@ -1,5 +1,5 @@
 {
-  "name": "PhysicLab 01",
+  "name": "PhysicLab v2",
   "description": "Um motor de física de alta precisão demonstrando métodos de integração numérica (Euler vs RK4), resolução de colisões e modelagem matemática.",
   "requestFramePermissions": []
 }
